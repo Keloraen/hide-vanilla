@@ -1,0 +1,12 @@
+{
+  "hide-vanilla": {
+    "mod": "https://raw.githubusercontent.com/Keloraen/hide-vanilla/main/mod.json",
+    "download": "https://github.com/Keloraen/hide-vanilla/archive/refs/heads/main.zip",
+    "screenshots": [
+      "https://raw.githubusercontent.com/Keloraen/hide-vanilla/main/screenshots/01-random-map-towns.png",
+      "https://raw.githubusercontent.com/Keloraen/hide-vanilla/main/screenshots/02-artifact-merchant.png",
+      "https://raw.githubusercontent.com/Keloraen/hide-vanilla/main/screenshots/03-adventure-map.png",
+      "https://raw.githubusercontent.com/Keloraen/hide-vanilla/main/screenshots/04-hero-skills.png"
+    ]
+  }
+}
