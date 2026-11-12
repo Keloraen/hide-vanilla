@@ -3,7 +3,7 @@
  "compatibility": {
   "min": "1.4.0"
  },
- "contact": "https://t.me/keloraen",
+ "contact": "https://github.com/Keloraen/hide-vanilla",
  "creatures": [
   "config/creatures.json"
  ],

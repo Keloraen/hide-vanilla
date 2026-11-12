@@ -3,7 +3,7 @@
  "compatibility": {
   "min": "1.4.0"
  },
- "contact": "https://t.me/keloraen",
+ "contact": "https://github.com/Keloraen/hide-vanilla",
  "description": "Stops every standard *Heroes III* secondary skill from being offered on level-up and from being taught by witch huts, scholars and universities. Skills the hero starts with stay and can still be upgraded up to expert. Secondary skills added by other mods are unaffected and keep being offered.\n\n**Incompatible with preserve-town:** one of its town buildings offers a choice of vanilla secondary skills — exactly the skills this submod hides — so both mods cannot be enabled at the same time.",
  "modType": "Skills",
  "name": "Hide vanilla: secondary skills",

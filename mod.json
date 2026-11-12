@@ -1,20 +1,20 @@
 {
-	"author": "Keloraen",
-	"changelog": {
-		"1.0.0": [
-			"Initial release"
-		]
-	},
-	"compatibility": {
-		"min": "1.4.0"
-	},
-	"contact": "https://t.me/keloraen",
-	"description": "Hides standard *Heroes III* content from random maps, templates and the starting town picker, while keeping it loaded in the game, so engine configs and map overrides that reference it keep working.\n\nThe hide-vanilla mod is split into one optional submod per vanilla faction: **Castle, Rampart, Tower, Inferno, Necropolis, Dungeon, Stronghold, Fortress, Conflux, Neutral**. Every submod hides its faction together with its heroes and its creatures and can be switched off independently in the launcher, so you can keep any vanilla town playable alongside mod-added towns.\n\nAll submods are enabled by default.\n\nA separate 11th submod, **Hide vanilla: artifacts**, removes every vanilla artifact except the Grail from random acquisition; it can be toggled on its own as well.\n\nA separate 12th submod, **Hide vanilla: secondary skills**, removes every standard secondary skill from the game except the ones a hero starts with by default; it can be toggled on its own as well.\n\nA separate 13th submod, **Hide vanilla: spells**, removes every standard spell from the game; it requires a spell mod to be installed and is disabled by default.\n\nA separate 14th submod, **Hide vanilla: campaign heroes**, keeps the twelve campaign heroes out of random maps and taverns; switch it off if another mod is supposed to unlock them.",
-	"modType": "Other",
-	"name": "Hide vanilla content",
-	"russian": {
-		"description": "Скрывает на случайных картах, шаблонах и при выборе стартового города стандартный контент *Heroes III*, оставляя его загруженным в игру — конфигурации движка и переопределения на карте продолжают работать.\n\nМод разбит на 10 необязательных сабмодов, по одному на каждую стандартную фракцию: **Замок, Оплот, Башня, Инферно, Некрополис, Подземелье, Цитадель, Крепость, Сопряжение, Нейтральные**. Каждый сабмод скрывает свою фракцию вместе с её героями и существами и отключается в лаунчере отдельно, поэтому любой стандартный замок можно оставить играбельным.\n\nВсе сабмоды включены по умолчанию.\n\nОтдельный 11-й сабмод **«Скрыть: артефакты»** убирает из случайной добычи все стандартные артефакты, кроме Грааля; включается и отключается отдельно.\n\nОтдельный 12-й сабмод **«Скрыть: вторичные навыки»** убирает из игры все стандартные вторичные навыки, за исключением тех которые есть у героев со старта по умолчанию; включается и отключается отдельно.\n\nОтдельный 13-й сабмод **«Скрыть: заклинания»** убирает из игры все стандартные заклинания; он требует установленного мода заклинаний и по умолчанию отключён.\n\nОтдельный 14-й сабмод **«Скрыть: кампанейские герои»** не даёт двенадцати кампанейским героям появляться на случайных картах и в тавернах; отключите его, если другой мод должен их открывать.",
-		"name": "Скрыть стандартный контент"
-	},
-	"version": "1.0.0"
+ "author": "Keloraen",
+ "changelog": {
+  "1.0.0": [
+   "Initial release"
+  ]
+ },
+ "compatibility": {
+  "min": "1.4.0"
+ },
+ "contact": "https://github.com/Keloraen/hide-vanilla",
+ "description": "Hides standard *Heroes III* content from random maps, templates and the starting town picker, while keeping it loaded in the game, so engine configs and map overrides that reference it keep working.\n\nThe hide-vanilla mod is split into one optional submod per vanilla faction: **Castle, Rampart, Tower, Inferno, Necropolis, Dungeon, Stronghold, Fortress, Conflux, Neutral**. Every submod hides its faction together with its heroes and its creatures and can be switched off independently in the launcher, so you can keep any vanilla town playable alongside mod-added towns.\n\nAll submods are enabled by default.\n\nA separate 11th submod, **Hide vanilla: artifacts**, removes every vanilla artifact except the Grail from random acquisition; it can be toggled on its own as well.\n\nA separate 12th submod, **Hide vanilla: secondary skills**, removes every standard secondary skill from the game except the ones a hero starts with by default; it can be toggled on its own as well.\n\nA separate 13th submod, **Hide vanilla: spells**, removes every standard spell from the game; it requires a spell mod to be installed and is disabled by default.\n\nA separate 14th submod, **Hide vanilla: campaign heroes**, keeps the twelve campaign heroes out of random maps and taverns; switch it off if another mod is supposed to unlock them.",
+ "modType": "Other",
+ "name": "Hide vanilla content",
+ "russian": {
+  "description": "Скрывает на случайных картах, шаблонах и при выборе стартового города стандартный контент *Heroes III*, оставляя его загруженным в игру — конфигурации движка и переопределения на карте продолжают работать.\n\nМод разбит на 10 необязательных сабмодов, по одному на каждую стандартную фракцию: **Замок, Оплот, Башня, Инферно, Некрополис, Подземелье, Цитадель, Крепость, Сопряжение, Нейтральные**. Каждый сабмод скрывает свою фракцию вместе с её героями и существами и отключается в лаунчере отдельно, поэтому любой стандартный замок можно оставить играбельным.\n\nВсе сабмоды включены по умолчанию.\n\nОтдельный 11-й сабмод **«Скрыть: артефакты»** убирает из случайной добычи все стандартные артефакты, кроме Грааля; включается и отключается отдельно.\n\nОтдельный 12-й сабмод **«Скрыть: вторичные навыки»** убирает из игры все стандартные вторичные навыки, за исключением тех которые есть у героев со старта по умолчанию; включается и отключается отдельно.\n\nОтдельный 13-й сабмод **«Скрыть: заклинания»** убирает из игры все стандартные заклинания; он требует установленного мода заклинаний и по умолчанию отключён.\n\nОтдельный 14-й сабмод **«Скрыть: кампанейские герои»** не даёт двенадцати кампанейским героям появляться на случайных картах и в тавернах; отключите его, если другой мод должен их открывать.",
+  "name": "Скрыть стандартный контент"
+ },
+ "version": "1.0.0"
 }

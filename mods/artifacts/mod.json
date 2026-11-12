@@ -13,7 +13,7 @@
  "compatibility": {
   "min": "1.4.0"
  },
- "contact": "https://t.me/keloraen",
+ "contact": "https://github.com/Keloraen/hide-vanilla",
  "description": "Hides every standard *Heroes III* artifact from random acquisition: treasure chests, the artifact merchant, rewards and the random map generator stop offering them. The Grail is left untouched, since the obelisk puzzle and town construction depend on it; spell scrolls stay as well. The artifacts stay loaded, so existing maps and saves keep working.\n\n**Safety set \"Poor Man's Valor\":** six custom artifacts (Wooden Ring, The Last Coin, A Hefty Bream, Rags, Rope Belt, Straw Hat) and the combined Poor Man's Valor. When no artifact is available for a random roll, the engine falls back to the Grail, which has no adventure-map template, and the game crashes while placing a 'Random Artifact' object. These artifacts keep the pools non-empty.",
  "modType": "Artifacts",
  "name": "Hide vanilla: artifacts",

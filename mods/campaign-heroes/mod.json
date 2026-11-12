@@ -6,7 +6,7 @@
  "conflicts": [
   "campaign-heroes"
  ],
- "contact": "https://t.me/keloraen",
+ "contact": "https://github.com/Keloraen/hide-vanilla",
  "description": "Keeps the *Heroes III* campaign heroes out of random maps, the starting hero picker and taverns. Their appearances in the original campaigns are unaffected. Switch this submod off if a mod of yours is supposed to unlock them.",
  "heroes": [
   "config/heroes.json"
