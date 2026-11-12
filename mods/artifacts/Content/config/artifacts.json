@@ -1,0 +1,428 @@
+{
+	"core:admiralsHat": {
+		"class": "SPECIAL"
+	},
+	"core:ambassadorsSash": {
+		"class": "SPECIAL"
+	},
+	"core:ammoCart": {
+		"class": "SPECIAL"
+	},
+	"core:amuletOfTheUndertaker": {
+		"class": "SPECIAL"
+	},
+	"core:angelFeatherArrows": {
+		"class": "SPECIAL"
+	},
+	"core:angelWings": {
+		"class": "SPECIAL"
+	},
+	"core:angelicAlliance": {
+		"class": "SPECIAL"
+	},
+	"core:armageddonsBlade": {
+		"class": "SPECIAL"
+	},
+	"core:armorOfTheDamned": {
+		"class": "SPECIAL"
+	},
+	"core:armorOfWonder": {
+		"class": "SPECIAL"
+	},
+	"core:armsOfLegion": {
+		"class": "SPECIAL"
+	},
+	"core:badgeOfCourage": {
+		"class": "SPECIAL"
+	},
+	"core:ballista": {
+		"class": "SPECIAL"
+	},
+	"core:birdOfPerception": {
+		"class": "SPECIAL"
+	},
+	"core:blackshardOfTheDeadKnight": {
+		"class": "SPECIAL"
+	},
+	"core:bootsOfLevitation": {
+		"class": "SPECIAL"
+	},
+	"core:bootsOfPolarity": {
+		"class": "SPECIAL"
+	},
+	"core:bootsOfSpeed": {
+		"class": "SPECIAL"
+	},
+	"core:bowOfElvenCherrywood": {
+		"class": "SPECIAL"
+	},
+	"core:bowOfTheSharpshooter": {
+		"class": "SPECIAL"
+	},
+	"core:bowstringOfTheUnicornsMane": {
+		"class": "SPECIAL"
+	},
+	"core:breastplateOfBrimstone": {
+		"class": "SPECIAL"
+	},
+	"core:breastplateOfPetrifiedWood": {
+		"class": "SPECIAL"
+	},
+	"core:bucklerOfTheGnollKing": {
+		"class": "SPECIAL"
+	},
+	"core:capeOfConjuring": {
+		"class": "SPECIAL"
+	},
+	"core:capeOfVelocity": {
+		"class": "SPECIAL"
+	},
+	"core:cardsOfProphecy": {
+		"class": "SPECIAL"
+	},
+	"core:catapult": {
+		"class": "SPECIAL"
+	},
+	"core:celestialNecklaceOfBliss": {
+		"class": "SPECIAL"
+	},
+	"core:centaurAxe": {
+		"class": "SPECIAL"
+	},
+	"core:charmOfMana": {
+		"class": "SPECIAL"
+	},
+	"core:cloakOfTheUndeadKing": {
+		"class": "SPECIAL"
+	},
+	"core:cloverOfFortune": {
+		"class": "SPECIAL"
+	},
+	"core:collarOfConjuring": {
+		"class": "SPECIAL"
+	},
+	"core:cornucopia": {
+		"class": "SPECIAL"
+	},
+	"core:crestOfValor": {
+		"class": "SPECIAL"
+	},
+	"core:crownOfDragontooth": {
+		"class": "SPECIAL"
+	},
+	"core:crownOfTheSupremeMagi": {
+		"class": "SPECIAL"
+	},
+	"core:deadMansBoots": {
+		"class": "SPECIAL"
+	},
+	"core:diplomatsRing": {
+		"class": "SPECIAL"
+	},
+	"core:dragonScaleArmor": {
+		"class": "SPECIAL"
+	},
+	"core:dragonScaleShield": {
+		"class": "SPECIAL"
+	},
+	"core:dragonWingTabard": {
+		"class": "SPECIAL"
+	},
+	"core:dragonboneGreaves": {
+		"class": "SPECIAL"
+	},
+	"core:elixirOfLife": {
+		"class": "SPECIAL"
+	},
+	"core:emblemOfCognizance": {
+		"class": "SPECIAL"
+	},
+	"core:endlessBagOfGold": {
+		"class": "SPECIAL"
+	},
+	"core:endlessPurseOfGold": {
+		"class": "SPECIAL"
+	},
+	"core:endlessSackOfGold": {
+		"class": "SPECIAL"
+	},
+	"core:equestriansGloves": {
+		"class": "SPECIAL"
+	},
+	"core:everflowingCrystalCloak": {
+		"class": "SPECIAL"
+	},
+	"core:everpouringVialOfMercury": {
+		"class": "SPECIAL"
+	},
+	"core:eversmokingRingOfSulfur": {
+		"class": "SPECIAL"
+	},
+	"core:firstAidTent": {
+		"class": "SPECIAL"
+	},
+	"core:garnitureOfInterference": {
+		"class": "SPECIAL"
+	},
+	"core:glyphOfGallantry": {
+		"class": "SPECIAL"
+	},
+	"core:goldenBow": {
+		"class": "SPECIAL"
+	},
+	"core:greaterGnollsFlail": {
+		"class": "SPECIAL"
+	},
+	"core:headOfLegion": {
+		"class": "SPECIAL"
+	},
+	"core:hellstormHelmet": {
+		"class": "SPECIAL"
+	},
+	"core:helmOfChaos": {
+		"class": "SPECIAL"
+	},
+	"core:helmOfHeavenlyEnlightenment": {
+		"class": "SPECIAL"
+	},
+	"core:helmOfTheAlabasterUnicorn": {
+		"class": "SPECIAL"
+	},
+	"core:hourglassOfTheEvilHour": {
+		"class": "SPECIAL"
+	},
+	"core:inexhaustibleCartOfLumber": {
+		"class": "SPECIAL"
+	},
+	"core:inexhaustibleCartOfOre": {
+		"class": "SPECIAL"
+	},
+	"core:ladybirdOfLuck": {
+		"class": "SPECIAL"
+	},
+	"core:legsOfLegion": {
+		"class": "SPECIAL"
+	},
+	"core:lionsShieldOfCourage": {
+		"class": "SPECIAL"
+	},
+	"core:loinsOfLegion": {
+		"class": "SPECIAL"
+	},
+	"core:mysticOrbOfMana": {
+		"class": "SPECIAL"
+	},
+	"core:necklaceOfDragonteeth": {
+		"class": "SPECIAL"
+	},
+	"core:necklaceOfOceanGuidance": {
+		"class": "SPECIAL"
+	},
+	"core:necklaceOfSwiftness": {
+		"class": "SPECIAL"
+	},
+	"core:ogresClubOfHavoc": {
+		"class": "SPECIAL"
+	},
+	"core:orbOfDrivingRain": {
+		"class": "SPECIAL"
+	},
+	"core:orbOfInhibition": {
+		"class": "SPECIAL"
+	},
+	"core:orbOfSilt": {
+		"class": "SPECIAL"
+	},
+	"core:orbOfTempestuousFire": {
+		"class": "SPECIAL"
+	},
+	"core:orbOfTheFirmament": {
+		"class": "SPECIAL"
+	},
+	"core:orbOfVulnerability": {
+		"class": "SPECIAL"
+	},
+	"core:pendantOfCourage": {
+		"class": "SPECIAL"
+	},
+	"core:pendantOfDeath": {
+		"class": "SPECIAL"
+	},
+	"core:pendantOfDispassion": {
+		"class": "SPECIAL"
+	},
+	"core:pendantOfFreeWill": {
+		"class": "SPECIAL"
+	},
+	"core:pendantOfHoliness": {
+		"class": "SPECIAL"
+	},
+	"core:pendantOfLife": {
+		"class": "SPECIAL"
+	},
+	"core:pendantOfNegativity": {
+		"class": "SPECIAL"
+	},
+	"core:pendantOfSecondSight": {
+		"class": "SPECIAL"
+	},
+	"core:pendantOfTotalRecall": {
+		"class": "SPECIAL"
+	},
+	"core:powerOfTheDragonFather": {
+		"class": "SPECIAL"
+	},
+	"core:quietEyeOfTheDragon": {
+		"class": "SPECIAL"
+	},
+	"core:recantersCloak": {
+		"class": "SPECIAL"
+	},
+	"core:redDragonFlameTongue": {
+		"class": "SPECIAL"
+	},
+	"core:ribCage": {
+		"class": "SPECIAL"
+	},
+	"core:ringOfConjuring": {
+		"class": "SPECIAL"
+	},
+	"core:ringOfInfiniteGems": {
+		"class": "SPECIAL"
+	},
+	"core:ringOfLife": {
+		"class": "SPECIAL"
+	},
+	"core:ringOfTheMagi": {
+		"class": "SPECIAL"
+	},
+	"core:ringOfTheWayfarer": {
+		"class": "SPECIAL"
+	},
+	"core:ringOfVitality": {
+		"class": "SPECIAL"
+	},
+	"core:sandalsOfTheSaint": {
+		"class": "SPECIAL"
+	},
+	"core:scalesOfTheGreaterBasilisk": {
+		"class": "SPECIAL"
+	},
+	"core:seaCaptainsHat": {
+		"class": "SPECIAL"
+	},
+	"core:sentinelsShield": {
+		"class": "SPECIAL"
+	},
+	"core:shacklesOfWar": {
+		"class": "SPECIAL"
+	},
+	"core:shieldOfTheDamned": {
+		"class": "SPECIAL"
+	},
+	"core:shieldOfTheDwarvenLords": {
+		"class": "SPECIAL"
+	},
+	"core:shieldOfTheYawningDead": {
+		"class": "SPECIAL"
+	},
+	"core:skullHelmet": {
+		"class": "SPECIAL"
+	},
+	"core:speculum": {
+		"class": "SPECIAL"
+	},
+	"core:spellBook": {
+		"class": "SPECIAL"
+	},
+	"core:spellbindersHat": {
+		"class": "SPECIAL"
+	},
+	"core:sphereOfPermanence": {
+		"class": "SPECIAL"
+	},
+	"core:spiritOfOppression": {
+		"class": "SPECIAL"
+	},
+	"core:spyglass": {
+		"class": "SPECIAL"
+	},
+	"core:statesmansMedal": {
+		"class": "SPECIAL"
+	},
+	"core:statueOfLegion": {
+		"class": "SPECIAL"
+	},
+	"core:stillEyeOfTheDragon": {
+		"class": "SPECIAL"
+	},
+	"core:stoicWatchman": {
+		"class": "SPECIAL"
+	},
+	"core:surcoatOfCounterpoise": {
+		"class": "SPECIAL"
+	},
+	"core:swordOfHellfire": {
+		"class": "SPECIAL"
+	},
+	"core:swordOfJudgement": {
+		"class": "SPECIAL"
+	},
+	"core:talismanOfMana": {
+		"class": "SPECIAL"
+	},
+	"core:targOfTheRampagingOgre": {
+		"class": "SPECIAL"
+	},
+	"core:thunderHelmet": {
+		"class": "SPECIAL"
+	},
+	"core:titansCuirass": {
+		"class": "SPECIAL"
+	},
+	"core:titansGladius": {
+		"class": "SPECIAL"
+	},
+	"core:titansThunder": {
+		"class": "SPECIAL"
+	},
+	"core:tomeOfAirMagic": {
+		"class": "SPECIAL"
+	},
+	"core:tomeOfEarthMagic": {
+		"class": "SPECIAL"
+	},
+	"core:tomeOfFireMagic": {
+		"class": "SPECIAL"
+	},
+	"core:tomeOfWaterMagic": {
+		"class": "SPECIAL"
+	},
+	"core:torsoOfLegion": {
+		"class": "SPECIAL"
+	},
+	"core:tunicOfTheCyclopsKing": {
+		"class": "SPECIAL"
+	},
+	"core:unusedArtifact1": {
+		"class": "SPECIAL"
+	},
+	"core:unusedArtifact2": {
+		"class": "SPECIAL"
+	},
+	"core:unusedArtifact3": {
+		"class": "SPECIAL"
+	},
+	"core:vampiresCowl": {
+		"class": "SPECIAL"
+	},
+	"core:vialOfDragonBlood": {
+		"class": "SPECIAL"
+	},
+	"core:vialOfLifeblood": {
+		"class": "SPECIAL"
+	},
+	"core:wizardsWell": {
+		"class": "SPECIAL"
+	}
+}

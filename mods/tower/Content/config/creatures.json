@@ -1,0 +1,44 @@
+{
+	"core:archMage": {
+		"special": true
+	},
+	"core:genie": {
+		"special": true
+	},
+	"core:giant": {
+		"special": true
+	},
+	"core:gremlin": {
+		"special": true
+	},
+	"core:ironGolem": {
+		"special": true
+	},
+	"core:mage": {
+		"special": true
+	},
+	"core:masterGenie": {
+		"special": true
+	},
+	"core:masterGremlin": {
+		"special": true
+	},
+	"core:naga": {
+		"special": true
+	},
+	"core:nagaQueen": {
+		"special": true
+	},
+	"core:obsidianGargoyle": {
+		"special": true
+	},
+	"core:stoneGargoyle": {
+		"special": true
+	},
+	"core:stoneGolem": {
+		"special": true
+	},
+	"core:titan": {
+		"special": true
+	}
+}

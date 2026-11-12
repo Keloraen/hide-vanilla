@@ -1,0 +1,28 @@
+{
+	"rags": {
+		"type": [
+			"HERO"
+		],
+		"class": "TREASURE",
+		"slot": "SHOULDERS",
+		"value": 3000,
+		"text": {
+			"name": "Rags",
+			"description": "{Rags}\r\n\r\nA pile of rags that was once a mantle grants you +1 to Spell Power.",
+			"event": "Passing some bushes, you notice tattered Rags and happily claim them. Do not judge others for what helps them feel more confident!"
+		},
+		"graphics": {
+			"image": "rags",
+			"map": "ragsMap",
+			"scenarioBonus": "ragsBonus"
+		},
+		"bonuses": {
+			"spellpower": {
+				"type": "PRIMARY_SKILL",
+				"val": 1,
+				"valueType": "BASE_NUMBER",
+				"subtype": "primarySkill.spellpower"
+			}
+		}
+	}
+}

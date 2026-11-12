@@ -1,0 +1,50 @@
+{
+	"core:aislinn": {
+		"special": true
+	},
+	"core:charna": {
+		"special": true
+	},
+	"core:clavius": {
+		"special": true
+	},
+	"core:galthran": {
+		"special": true
+	},
+	"core:isra": {
+		"special": true
+	},
+	"core:moandor": {
+		"special": true
+	},
+	"core:nagash": {
+		"special": true
+	},
+	"core:nimbus": {
+		"special": true
+	},
+	"core:sandro": {
+		"special": true
+	},
+	"core:septienna": {
+		"special": true
+	},
+	"core:straker": {
+		"special": true
+	},
+	"core:tamika": {
+		"special": true
+	},
+	"core:thant": {
+		"special": true
+	},
+	"core:vidomina": {
+		"special": true
+	},
+	"core:vokial": {
+		"special": true
+	},
+	"core:xsi": {
+		"special": true
+	}
+}

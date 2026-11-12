@@ -1,0 +1,44 @@
+{
+	"core:blackKnight": {
+		"special": true
+	},
+	"core:boneDragon": {
+		"special": true
+	},
+	"core:dreadKnight": {
+		"special": true
+	},
+	"core:ghostDragon": {
+		"special": true
+	},
+	"core:lich": {
+		"special": true
+	},
+	"core:powerLich": {
+		"special": true
+	},
+	"core:skeleton": {
+		"special": true
+	},
+	"core:skeletonWarrior": {
+		"special": true
+	},
+	"core:vampire": {
+		"special": true
+	},
+	"core:vampireLord": {
+		"special": true
+	},
+	"core:walkingDead": {
+		"special": true
+	},
+	"core:wight": {
+		"special": true
+	},
+	"core:wraith": {
+		"special": true
+	},
+	"core:zombieLord": {
+		"special": true
+	}
+}

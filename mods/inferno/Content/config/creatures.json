@@ -1,0 +1,44 @@
+{
+	"core:archDevil": {
+		"special": true
+	},
+	"core:cerberus": {
+		"special": true
+	},
+	"core:demon": {
+		"special": true
+	},
+	"core:devil": {
+		"special": true
+	},
+	"core:efreet": {
+		"special": true
+	},
+	"core:efreetSultan": {
+		"special": true
+	},
+	"core:familiar": {
+		"special": true
+	},
+	"core:gog": {
+		"special": true
+	},
+	"core:hellHound": {
+		"special": true
+	},
+	"core:hornedDemon": {
+		"special": true
+	},
+	"core:imp": {
+		"special": true
+	},
+	"core:magog": {
+		"special": true
+	},
+	"core:pitFiend": {
+		"special": true
+	},
+	"core:pitLord": {
+		"special": true
+	}
+}

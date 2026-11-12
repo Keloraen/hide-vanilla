@@ -1,0 +1,23 @@
+{
+		"artifact.hide-vanilla.artifacts.woodenRing.name": "Деревянное кольцо",
+		"artifact.hide-vanilla.artifacts.woodenRing.description": "{Деревянное кольцо}\r\n\r\nПростое деревянное кольцо добавляет +1 к Боевому духу.",
+		"artifact.hide-vanilla.artifacts.woodenRing.event": "Ваш прозорливый глаз замечает в густой траве единственное сокровище бедняка - Деревянное кольцо. Для большинства — ничего не стоящая безделушка.",
+		"artifact.hide-vanilla.artifacts.lastCoin.name": "Последняя монетка",
+		"artifact.hide-vanilla.artifacts.lastCoin.description": "{Последняя монетка}\r\n\r\nПотёртая монетка, которая ни разу не упала решкой, добавляет +1 к Удаче.",
+		"artifact.hide-vanilla.artifacts.lastCoin.event": "Вы находите на дороге странную монетку, на которой всегда выпадает орёл, и, оглядевшись по сторонам, присваиваете её себе.",
+		"artifact.hide-vanilla.artifacts.goodBream.name": "Увесистый лещ",
+		"artifact.hide-vanilla.artifacts.goodBream.description": "{Увесистый лещ}\r\n\r\nПолучи леща! И +1 к Атаке!",
+		"artifact.hide-vanilla.artifacts.goodBream.event": "На своём пути вы встретили небольшой ручей. Вы решили ненадолго остановиться, чтобы порыбачить. Через пару минут вашим трофеем становится Увесистый лещ. Вы подумали, что таким было бы удобно дать леща. Больше рыба в тот день не клевала.",
+		"artifact.hide-vanilla.artifacts.rags.name": "Лохмотья",
+		"artifact.hide-vanilla.artifacts.rags.description": "{Лохмотья}\r\n\r\nКуча лохмотьев, которая когда-то была мантией, прибавляет вам +1 к Силе магии",
+		"artifact.hide-vanilla.artifacts.rags.event": "Проходя мимо каких-то кустов, вы замечаете рваные Лохмотья и радостно присваиваете их себе. Не осуждайте других за то, что помогает им чувствовать себя увереннее!",
+		"artifact.hide-vanilla.artifacts.ropeBelt.name": "Пояс из верёвки",
+		"artifact.hide-vanilla.artifacts.ropeBelt.description": "{Пояс из верёвки}\r\n\r\nКусок корабельной верёвки прибавляет вам +1 к Защите",
+		"artifact.hide-vanilla.artifacts.ropeBelt.event": "Проходя мимо заброшенных руин вы находите моток просмолённой верёвки. Вы обвязываете её вокруг пояса очень уверенным узлом и чувствуете себя немного защищеннее.",
+		"artifact.hide-vanilla.artifacts.strawHat.name": "Соломенная шляпа",
+		"artifact.hide-vanilla.artifacts.strawHat.description": "{Соломенная шляпа}\r\n\r\n Не только защищает от солнца, но и прибавляет вам +1 к Знаниям",
+		"artifact.hide-vanilla.artifacts.strawHat.event": "По пути вам встретилось живое соломенное чучело, которое висело на шесте, отпугивая ворон своими лекциями по механике небесных тел. Вам показалось, что его шляпа может однажды пригодиться. Вы отнимаете шляпу у чучела, вопреки его возражениям. Удаляясь от этого места вас сопровождал отборный мат и ругань. Видимо, шляпа всё же добавляла немного ума.",
+		"artifact.hide-vanilla.artifacts.poorMansValor.name": "Доблесть бедняка",
+		"artifact.hide-vanilla.artifacts.poorMansValor.description": "{Доблесть бедняка}\r\n\r\nВ этом одеянии ты получаешь шанс стать лучшим из худших, а также, помимо эффектов составных частей, дополнительно +1 ко всем базовым характеристикам, бовому духу и удаче.",
+		"artifact.hide-vanilla.artifacts.poorMansValor.event": "Такие артефакты с неба не падают. Чтобы их получить нужно постараться. Лохмотья, монетка, рыба и шляпа — вы собрали точно такой же комплект, какой у вас был в 7 лет. Сейчас, как и в детстве, вы чувствуете себя непобедимым."
+	}

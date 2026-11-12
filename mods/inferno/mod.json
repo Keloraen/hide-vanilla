@@ -1,0 +1,24 @@
+{
+ "author": "Keloraen",
+ "compatibility": {
+  "min": "1.4.0"
+ },
+ "contact": "https://t.me/keloraen",
+ "creatures": [
+  "config/creatures.json"
+ ],
+ "description": "Hides the Inferno faction: it cannot be picked at game start and never appears in random map generation. The faction's heroes are not offered at start and never appear in taverns. Its creatures are excluded from random selection, random maps included. The objects stay loaded, so maps and saves that already contain the faction keep working.",
+ "factions": [
+  "config/factions.json"
+ ],
+ "heroes": [
+  "config/heroes.json"
+ ],
+ "modType": "Other",
+ "name": "Hide vanilla: Inferno",
+ "russian": {
+  "description": "Скрывает фракцию Инферно: она не выбирается при старте и не попадает в генерацию случайных карт. Герои фракции не предлагаются на старте и не появляются в тавернах. Существа фракции исключаются из случайного выбора (в том числе в RMG). Объекты остаются загруженными: карты и сохранения, где фракция уже присутствует, продолжают работать.",
+  "name": "Скрыть: Инферно"
+ },
+ "version": "1.0.0"
+}

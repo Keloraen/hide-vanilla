@@ -1,0 +1,44 @@
+{
+	"core:angel": {
+		"special": true
+	},
+	"core:archangel": {
+		"special": true
+	},
+	"core:archer": {
+		"special": true
+	},
+	"core:cavalier": {
+		"special": true
+	},
+	"core:champion": {
+		"special": true
+	},
+	"core:crusader": {
+		"special": true
+	},
+	"core:griffin": {
+		"special": true
+	},
+	"core:halberdier": {
+		"special": true
+	},
+	"core:marksman": {
+		"special": true
+	},
+	"core:monk": {
+		"special": true
+	},
+	"core:pikeman": {
+		"special": true
+	},
+	"core:royalGriffin": {
+		"special": true
+	},
+	"core:swordsman": {
+		"special": true
+	},
+	"core:zealot": {
+		"special": true
+	}
+}

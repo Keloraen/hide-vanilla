@@ -1,0 +1,28 @@
+{
+	"strawHat": {
+		"type": [
+			"HERO"
+		],
+		"class": "RELIC",
+		"slot": "HEAD",
+		"value": 12000,
+		"text": {
+			"name": "Straw Hat",
+			"description": "{Straw Hat}\r\n\r\nIt not only keeps the sun off, but also grants you +1 to Knowledge.",
+			"event": "On your way you come across a living scarecrow hanging on a pole, driving the crows off with lectures on the mechanics of celestial bodies. It occurs to you that its hat might come in useful one day. You take the hat from the scarecrow despite its objections. Choice curses and abuse followed you as you walked away. Apparently the hat did add a little wit after all."
+		},
+		"graphics": {
+			"image": "strawHat",
+			"map": "strawHatMap",
+			"scenarioBonus": "strawHatBonus"
+		},
+		"bonuses": {
+			"knowledge": {
+				"type": "PRIMARY_SKILL",
+				"val": 1,
+				"valueType": "BASE_NUMBER",
+				"subtype": "primarySkill.knowledge"
+			}
+		}
+	}
+}

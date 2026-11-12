@@ -1,0 +1,28 @@
+{
+	"ropeBelt": {
+		"type": [
+			"HERO"
+		],
+		"class": "MAJOR",
+		"slot": "TORSO",
+		"value": 12000,
+		"text": {
+			"name": "Rope Belt",
+			"description": "{Rope Belt}\r\n\r\nA length of ship's rope grants you +1 to Defence.",
+			"event": "Wandering past abandoned ruins, you find a coil of tarred rope. You tie it around your waist with a very confident knot and feel a little better protected."
+		},
+		"graphics": {
+			"image": "ropeBelt",
+			"map": "ropeBeltMap",
+			"scenarioBonus": "ropeBeltBonus"
+		},
+		"bonuses": {
+			"defence": {
+				"type": "PRIMARY_SKILL",
+				"val": 1,
+				"valueType": "BASE_NUMBER",
+				"subtype": "primarySkill.defence"
+			}
+		}
+	}
+}

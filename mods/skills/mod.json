@@ -1,0 +1,21 @@
+{
+ "author": "Keloraen",
+ "compatibility": {
+  "min": "1.4.0"
+ },
+ "contact": "https://t.me/keloraen",
+ "description": "Stops every standard *Heroes III* secondary skill from being offered on level-up and from being taught by witch huts, scholars and universities. Skills the hero starts with stay and can still be upgraded up to expert. Secondary skills added by other mods are unaffected and keep being offered.\n\n**Incompatible with preserve-town:** one of its town buildings offers a choice of vanilla secondary skills — exactly the skills this submod hides — so both mods cannot be enabled at the same time.",
+ "modType": "Skills",
+ "name": "Hide vanilla: secondary skills",
+ "russian": {
+  "description": "Стандартные вторичные навыки *Heroes III* больше не предлагаются при повышении уровня и не преподаются в ведьминых хижинах, у учёных и в университетах. Навыки, которые у героя уже есть со старта, остаются и прокачиваются до expert. Вторичные навыки из других модификаций не затрагиваются и предлагаются как обычно.\n\n**Несовместим с preserve-town:** в его городе есть здание, которое предлагает на выбор стандартные вторичные навыки — те самые, что скрывает этот сабмод, поэтому оба мода нельзя включать одновременно.",
+  "name": "Скрыть: вторичные навыки"
+ },
+ "skills": [
+  "config/skills.json"
+ ],
+ "version": "1.0.0",
+ "conflicts": [
+  "preserve-town"
+ ]
+}

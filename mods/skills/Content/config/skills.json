@@ -1,0 +1,86 @@
+{
+	"core:airMagic": {
+		"special": true
+	},
+	"core:archery": {
+		"special": true
+	},
+	"core:armorer": {
+		"special": true
+	},
+	"core:artillery": {
+		"special": true
+	},
+	"core:ballistics": {
+		"special": true
+	},
+	"core:diplomacy": {
+		"special": true
+	},
+	"core:eagleEye": {
+		"special": true
+	},
+	"core:earthMagic": {
+		"special": true
+	},
+	"core:estates": {
+		"special": true
+	},
+	"core:fireMagic": {
+		"special": true
+	},
+	"core:firstAid": {
+		"special": true
+	},
+	"core:intelligence": {
+		"special": true
+	},
+	"core:leadership": {
+		"special": true
+	},
+	"core:learning": {
+		"special": true
+	},
+	"core:logistics": {
+		"special": true
+	},
+	"core:luck": {
+		"special": true
+	},
+	"core:mysticism": {
+		"special": true
+	},
+	"core:navigation": {
+		"special": true
+	},
+	"core:necromancy": {
+		"special": true
+	},
+	"core:offence": {
+		"special": true
+	},
+	"core:pathfinding": {
+		"special": true
+	},
+	"core:resistance": {
+		"special": true
+	},
+	"core:scholar": {
+		"special": true
+	},
+	"core:scouting": {
+		"special": true
+	},
+	"core:sorcery": {
+		"special": true
+	},
+	"core:tactics": {
+		"special": true
+	},
+	"core:waterMagic": {
+		"special": true
+	},
+	"core:wisdom": {
+		"special": true
+	}
+}

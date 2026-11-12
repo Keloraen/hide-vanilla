@@ -1,0 +1,472 @@
+{
+	"core:acidBreath": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:acidBreathDamage": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:age": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:airElemental": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:airShield": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:animateDead": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:antiMagic": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:armageddon": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:berserk": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:bind": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:bless": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:blind": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:bloodlust": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:castleMoat": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:catapultShot": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:chainLightning": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:clone": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:counterstrike": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:cure": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:curse": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:cyclopsShot": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:deathCloud": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:deathRipple": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:deathStare": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:destroyUndead": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:dimensionDoor": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:disease": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:disguise": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:dispel": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:dispelHelpful": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:disruptingRay": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:dungeonMoat": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:earthElemental": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:earthquake": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:fireElemental": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:fireShield": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:fireWall": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:fireball": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:fireballAbility": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:firstAid": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:fly": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:forceField": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:forgetfulness": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:fortressMoat": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:fortune": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:frenzy": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:frostRing": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:haste": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:hypnotize": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:iceBolt": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:implosion": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:inferno": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:infernoMoat": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:landMine": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:lightningBolt": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:magicArrow": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:magicMirror": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:meteorShower": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:mirth": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:misfortune": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:necropolisMoat": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:paralyze": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:poison": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:prayer": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:precision": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:protectAir": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:protectEarth": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:protectFire": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:protectWater": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:quicksand": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:rampartMoat": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:removeObstacle": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:resurrection": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:sacrifice": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:scuttleBoat": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:shield": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:slayer": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:slow": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:sorrow": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:stoneGaze": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:stoneSkin": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:strongholdMoat": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:summonBoat": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:summonDemons": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:teleport": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:thunderbolt": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:towerMoat": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:townPortal": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:viewAir": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:viewEarth": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:visions": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:waterElemental": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:waterWalk": {
+		"flags": {
+			"special": true
+		}
+	},
+	"core:weakness": {
+		"flags": {
+			"special": true
+		}
+	}
+}

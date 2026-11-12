@@ -1,0 +1,27 @@
+{
+ "author": "Keloraen",
+ "compatibility": {
+  "min": "1.4.0"
+ },
+ "conflicts": [
+  "campaign-heroes"
+ ],
+ "contact": "https://t.me/keloraen",
+ "description": "Keeps the *Heroes III* campaign heroes out of random maps, the starting hero picker and taverns. Their appearances in the original campaigns are unaffected. Switch this submod off if a mod of yours is supposed to unlock them.",
+ "heroes": [
+  "config/heroes.json"
+ ],
+ "modType": "Heroes",
+ "name": "Hide vanilla: campaign heroes",
+ "russian": {
+  "description": "Не даёт кампанейским героям *Heroes III* появляться на случайных картах, при выборе стартового героя и в тавернах. Их появление в оригинальных кампаниях не затрагивается. Отключите этот сабмод, если другой ваш мод должен открывать этих героев.",
+  "name": "Скрыть: кампанейские герои"
+ },
+ "softDepends": [
+  "hota",
+  "hota.heroes",
+  "tears-of-ashan",
+  "the-lost-tales"
+ ],
+ "version": "1.0.0"
+}

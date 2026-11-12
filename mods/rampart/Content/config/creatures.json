@@ -1,0 +1,44 @@
+{
+	"core:battleDwarf": {
+		"special": true
+	},
+	"core:centaur": {
+		"special": true
+	},
+	"core:centaurCaptain": {
+		"special": true
+	},
+	"core:dendroidGuard": {
+		"special": true
+	},
+	"core:dendroidSoldier": {
+		"special": true
+	},
+	"core:dwarf": {
+		"special": true
+	},
+	"core:goldDragon": {
+		"special": true
+	},
+	"core:grandElf": {
+		"special": true
+	},
+	"core:greenDragon": {
+		"special": true
+	},
+	"core:pegasus": {
+		"special": true
+	},
+	"core:silverPegasus": {
+		"special": true
+	},
+	"core:unicorn": {
+		"special": true
+	},
+	"core:warUnicorn": {
+		"special": true
+	},
+	"core:woodElf": {
+		"special": true
+	}
+}

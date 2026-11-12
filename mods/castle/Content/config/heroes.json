@@ -1,0 +1,50 @@
+{
+	"core:adela": {
+		"special": true
+	},
+	"core:adelaide": {
+		"special": true
+	},
+	"core:caitlin": {
+		"special": true
+	},
+	"core:christian": {
+		"special": true
+	},
+	"core:cuthbert": {
+		"special": true
+	},
+	"core:edric": {
+		"special": true
+	},
+	"core:ingham": {
+		"special": true
+	},
+	"core:lordHaart": {
+		"special": true
+	},
+	"core:loynis": {
+		"special": true
+	},
+	"core:orrin": {
+		"special": true
+	},
+	"core:rion": {
+		"special": true
+	},
+	"core:sanya": {
+		"special": true
+	},
+	"core:sorsha": {
+		"special": true
+	},
+	"core:sylvia": {
+		"special": true
+	},
+	"core:tyris": {
+		"special": true
+	},
+	"core:valeska": {
+		"special": true
+	}
+}

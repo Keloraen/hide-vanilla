@@ -1,0 +1,27 @@
+{
+	"woodenRing": {
+		"type": [
+			"HERO"
+		],
+		"class": "TREASURE",
+		"slot": "RING",
+		"value": 3000,
+		"text": {
+			"name": "Wooden Ring",
+			"description": "{Wooden Ring}\r\n\r\nA simple wooden ring that grants +1 to Morale.",
+			"event": "Your keen eye finds, in the thick grass, the only treasure a poor man has — a Wooden Ring. Worthless to most, priceless to some."
+		},
+		"graphics": {
+			"image": "woodenRing",
+			"map": "woodenRingMap",
+			"scenarioBonus": "woodenRingBonus"
+		},
+		"bonuses": {
+			"morale": {
+				"type": "MORALE",
+				"val": 1,
+				"valueType": "BASE_NUMBER"
+			}
+		}
+	}
+}

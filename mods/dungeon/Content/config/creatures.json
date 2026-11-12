@@ -1,0 +1,44 @@
+{
+	"core:beholder": {
+		"special": true
+	},
+	"core:blackDragon": {
+		"special": true
+	},
+	"core:evilEye": {
+		"special": true
+	},
+	"core:harpy": {
+		"special": true
+	},
+	"core:harpyHag": {
+		"special": true
+	},
+	"core:infernalTroglodyte": {
+		"special": true
+	},
+	"core:manticore": {
+		"special": true
+	},
+	"core:medusa": {
+		"special": true
+	},
+	"core:medusaQueen": {
+		"special": true
+	},
+	"core:minotaur": {
+		"special": true
+	},
+	"core:minotaurKing": {
+		"special": true
+	},
+	"core:redDragon": {
+		"special": true
+	},
+	"core:scorpicore": {
+		"special": true
+	},
+	"core:troglodyte": {
+		"special": true
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"lastCoin": {
+		"type": [
+			"HERO"
+		],
+		"class": "MINOR",
+		"slot": "MISC",
+		"value": 6000,
+		"text": {
+			"name": "The Last Coin",
+			"description": "{The Last Coin}\r\n\r\nA worn coin that has never once landed tails; it grants +1 to Luck.",
+			"event": "You find a strange coin on the road — one that always comes up heads — and, after a glance around, claim it for yourself."
+		},
+		"graphics": {
+			"image": "lastCoin",
+			"map": "lastCoinMap",
+			"scenarioBonus": "lastCoinBonus"
+		},
+		"bonuses": {
+			"luck": {
+				"type": "LUCK",
+				"val": 1,
+				"valueType": "BASE_NUMBER"
+			}
+		}
+	}
+}

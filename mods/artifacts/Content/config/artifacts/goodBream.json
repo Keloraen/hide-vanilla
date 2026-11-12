@@ -1,0 +1,28 @@
+{
+	"goodBream": {
+		"type": [
+			"HERO"
+		],
+		"class": "TREASURE",
+		"slot": "RIGHT_HAND",
+		"value": 3000,
+		"text": {
+			"name": "A Hefty Bream",
+			"description": "{A Hefty Bream}\r\n\r\nGet slapped with a bream! And +1 to Attack!",
+			"event": "A small stream crossed your path, so you stopped for a while to fish. A couple of minutes later a Hefty Bream was your catch. You thought it would be handy for giving someone a slap. No other fish bit that day."
+		},
+		"graphics": {
+			"image": "goodBream",
+			"map": "goodBreamMap",
+			"scenarioBonus": "goodBreamBonus"
+		},
+		"bonuses": {
+			"attack": {
+				"type": "PRIMARY_SKILL",
+				"val": 1,
+				"valueType": "BASE_NUMBER",
+				"subtype": "primarySkill.attack"
+			}
+		}
+	}
+}

@@ -1,0 +1,64 @@
+{
+	"poorMansValor": {
+		"type": [
+			"HERO"
+		],
+		"class": "RELIC",
+		"slot": "TORSO",
+		"value": 24000,
+		"components": [
+			"woodenRing",
+			"lastCoin",
+			"goodBream",
+			"rags",
+			"ropeBelt",
+			"strawHat"
+		],
+		"text": {
+			"name": "Poor Man's Valor",
+			"description": "{Poor Man's Valor}\r\n\r\nIn this garb you get a chance to become the best of the worst and, on top of the effects of its component parts, a further +1 to all primary skills, Morale and Luck.",
+			"event": "Artifacts like these do not fall from the sky — you have to work for them. Rags, a coin, a fish and a hat: you have assembled exactly the set you had when you were seven. Now, just as in childhood, you feel invincible."
+		},
+		"graphics": {
+			"image": "poorMansValor",
+			"map": "poorMansValorMap",
+			"scenarioBonus": "poorMansValorBonus"
+		},
+		"bonuses": {
+			"morale": {
+				"type": "MORALE",
+				"val": 1,
+				"valueType": "BASE_NUMBER"
+			},
+			"luck": {
+				"type": "LUCK",
+				"val": 1,
+				"valueType": "BASE_NUMBER"
+			},
+			"attack": {
+				"type": "PRIMARY_SKILL",
+				"val": 1,
+				"valueType": "BASE_NUMBER",
+				"subtype": "primarySkill.attack"
+			},
+			"defence": {
+				"type": "PRIMARY_SKILL",
+				"val": 1,
+				"valueType": "BASE_NUMBER",
+				"subtype": "primarySkill.defence"
+			},
+			"spellpower": {
+				"type": "PRIMARY_SKILL",
+				"val": 1,
+				"valueType": "BASE_NUMBER",
+				"subtype": "primarySkill.spellpower"
+			},
+			"knowledge": {
+				"type": "PRIMARY_SKILL",
+				"val": 1,
+				"valueType": "BASE_NUMBER",
+				"subtype": "primarySkill.knowledge"
+			}
+		}
+	}
+}

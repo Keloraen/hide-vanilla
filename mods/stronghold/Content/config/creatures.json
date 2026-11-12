@@ -1,0 +1,44 @@
+{
+	"core:ancientBehemoth": {
+		"special": true
+	},
+	"core:behemoth": {
+		"special": true
+	},
+	"core:cyclop": {
+		"special": true
+	},
+	"core:cyclopKing": {
+		"special": true
+	},
+	"core:goblin": {
+		"special": true
+	},
+	"core:goblinWolfRider": {
+		"special": true
+	},
+	"core:hobgoblin": {
+		"special": true
+	},
+	"core:hobgoblinWolfRider": {
+		"special": true
+	},
+	"core:ogre": {
+		"special": true
+	},
+	"core:ogreMage": {
+		"special": true
+	},
+	"core:orc": {
+		"special": true
+	},
+	"core:orcChieftain": {
+		"special": true
+	},
+	"core:roc": {
+		"special": true
+	},
+	"core:thunderbird": {
+		"special": true
+	}
+}

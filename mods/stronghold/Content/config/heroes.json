@@ -1,0 +1,50 @@
+{
+	"core:cragHack": {
+		"special": true
+	},
+	"core:dessa": {
+		"special": true
+	},
+	"core:gird": {
+		"special": true
+	},
+	"core:gretchin": {
+		"special": true
+	},
+	"core:gundula": {
+		"special": true
+	},
+	"core:gurnisson": {
+		"special": true
+	},
+	"core:jabarkas": {
+		"special": true
+	},
+	"core:krellion": {
+		"special": true
+	},
+	"core:oris": {
+		"special": true
+	},
+	"core:saurug": {
+		"special": true
+	},
+	"core:shiva": {
+		"special": true
+	},
+	"core:terek": {
+		"special": true
+	},
+	"core:tyraxor": {
+		"special": true
+	},
+	"core:vey": {
+		"special": true
+	},
+	"core:yog": {
+		"special": true
+	},
+	"core:zubin": {
+		"special": true
+	}
+}

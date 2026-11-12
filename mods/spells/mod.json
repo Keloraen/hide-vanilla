@@ -1,0 +1,23 @@
+{
+ "author": "Keloraen",
+ "compatibility": {
+  "min": "1.4.0"
+ },
+ "contact": "https://t.me/keloraen",
+ "depends": [
+  "new-old-spells-plus"
+ ],
+ "description": "Removes every standard *Heroes III* spell from the game: mage guilds stay empty, no shrine, scholar or scroll can offer them, and no hero can learn or cast them. The spells stay loaded, so maps and saves that already reference them keep working.\n\n**Requires a spell mod.** An empty spell pool breaks random map generation: the map generator places spell scrolls per level and aborts when a level has no spells left, so this submod can only be enabled together with a mod that supplies its own spells. It is therefore disabled by default.\n\n**Adjusts the required mod:** one of its 3rd-level spells, *Levitation*, is moved to 2nd level in the guilds and scrolls, so the mod supplies spells of all five levels and the map generator can always fill a scroll of any level.",
+ "keepDisabled": true,
+ "modType": "Spells",
+ "name": "Hide vanilla: spells",
+ "russian": {
+  "description": "Убирает из игры все стандартные заклинания *Heroes III*: гильдии магов остаются пустыми, ни храм, ни учёный, ни свиток их больше не предлагают, и ни один герой не может их выучить или применить. Сами заклинания остаются загруженными: карты и сохранения, где они уже есть, продолжают работать.\n\n**Требует мод заклинаний.** Пустой пул заклинаний ломает генерацию случайных карт: генератор расставляет свитки заклинаний по уровням и прерывается, если для какого-то уровня заклинаний не осталось, поэтому этот сабмод можно включать только вместе с модом, который поставляет собственные заклинания. Поэтому он отключён по умолчанию.\n\n**Дополняет требуемый мод:** одно из его заклинаний 3-го уровня, *Levitation*, переносится на 2-й уровень в гильдиях и свитках, чтобы мод давал заклинания всех пяти уровней и генератор карт всегда мог заполнить свиток любого уровня.",
+  "name": "Скрыть: заклинания"
+ },
+ "spells": [
+  "config/spells.json",
+  "config/newOldSpellsPatch.json"
+ ],
+ "version": "1.0.0"
+}

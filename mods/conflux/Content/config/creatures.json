@@ -1,0 +1,44 @@
+{
+	"core:airElemental": {
+		"special": true
+	},
+	"core:earthElemental": {
+		"special": true
+	},
+	"core:energyElemental": {
+		"special": true
+	},
+	"core:fireElemental": {
+		"special": true
+	},
+	"core:firebird": {
+		"special": true
+	},
+	"core:iceElemental": {
+		"special": true
+	},
+	"core:magicElemental": {
+		"special": true
+	},
+	"core:magmaElemental": {
+		"special": true
+	},
+	"core:phoenix": {
+		"special": true
+	},
+	"core:pixie": {
+		"special": true
+	},
+	"core:psychicElemental": {
+		"special": true
+	},
+	"core:sprite": {
+		"special": true
+	},
+	"core:stormElemental": {
+		"special": true
+	},
+	"core:waterElemental": {
+		"special": true
+	}
+}

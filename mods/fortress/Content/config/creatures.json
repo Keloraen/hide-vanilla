@@ -1,0 +1,44 @@
+{
+	"core:basilisk": {
+		"special": true
+	},
+	"core:chaosHydra": {
+		"special": true
+	},
+	"core:fireDragonFly": {
+		"special": true
+	},
+	"core:gnoll": {
+		"special": true
+	},
+	"core:gnollMarauder": {
+		"special": true
+	},
+	"core:gorgon": {
+		"special": true
+	},
+	"core:greaterBasilisk": {
+		"special": true
+	},
+	"core:hydra": {
+		"special": true
+	},
+	"core:lizardWarrior": {
+		"special": true
+	},
+	"core:lizardman": {
+		"special": true
+	},
+	"core:mightyGorgon": {
+		"special": true
+	},
+	"core:serpentFly": {
+		"special": true
+	},
+	"core:wyvern": {
+		"special": true
+	},
+	"core:wyvernMonarch": {
+		"special": true
+	}
+}

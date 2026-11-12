@@ -1,0 +1,28 @@
+{
+ "artifacts": [
+  "config/artifacts.json",
+  "config/artifacts/woodenRing.json",
+  "config/artifacts/lastCoin.json",
+  "config/artifacts/goodBream.json",
+  "config/artifacts/rags.json",
+  "config/artifacts/ropeBelt.json",
+  "config/artifacts/strawHat.json",
+  "config/artifacts/poorMansValor.json"
+ ],
+ "author": "Keloraen",
+ "compatibility": {
+  "min": "1.4.0"
+ },
+ "contact": "https://t.me/keloraen",
+ "description": "Hides every standard *Heroes III* artifact from random acquisition: treasure chests, the artifact merchant, rewards and the random map generator stop offering them. The Grail is left untouched, since the obelisk puzzle and town construction depend on it; spell scrolls stay as well. The artifacts stay loaded, so existing maps and saves keep working.\n\n**Safety set \"Poor Man's Valor\":** six custom artifacts (Wooden Ring, The Last Coin, A Hefty Bream, Rags, Rope Belt, Straw Hat) and the combined Poor Man's Valor. When no artifact is available for a random roll, the engine falls back to the Grail, which has no adventure-map template, and the game crashes while placing a 'Random Artifact' object. These artifacts keep the pools non-empty.",
+ "modType": "Artifacts",
+ "name": "Hide vanilla: artifacts",
+ "russian": {
+  "description": "Скрывает все стандартные артефакты *Heroes III* из случайной добычи: они больше не выпадают в сундуках, у торговца артефактами, в наградах и не расставляются генератором случайных карт. Грааль не тронут — на нём держится ключевая механика игры; свитки заклинаний тоже остаются. Артефакты остаются загруженными: карты и сохранения, где они уже лежат, продолжают работать.\n\n**Страховочный набор «Доблесть бедняка»:** шесть собственных артефактов (Деревянное кольцо, Последняя монетка, Увесистый лещ, Лохмотья, Пояс из верёвки, Соломенная шляпа) и сборный «Доблесть бедняка». Если движку не из чего выбрать случайный артефакт, он подставляет Грааль, а у Грааля нет шаблона объекта на карте — игра падает при генерации случайной карты. Эти артефакты держат пулы непустыми.",
+  "name": "Скрыть: артефакты",
+  "translations": [
+   "translation/artifacts/russian.json"
+  ]
+ },
+ "version": "1.0.0"
+}

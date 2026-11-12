@@ -1,0 +1,38 @@
+{
+	"core:adrienne": {
+		"special": true
+	},
+	"core:boragus": {
+		"special": true
+	},
+	"core:catherine": {
+		"special": true
+	},
+	"core:dracon": {
+		"special": true
+	},
+	"core:gelu": {
+		"special": true
+	},
+	"core:kilgor": {
+		"special": true
+	},
+	"core:mutare": {
+		"special": true
+	},
+	"core:mutareDrake": {
+		"special": true
+	},
+	"core:roland": {
+		"special": true
+	},
+	"core:sirMullich": {
+		"special": true
+	},
+	"core:undeadHaart": {
+		"special": true
+	},
+	"core:xeron": {
+		"special": true
+	}
+}

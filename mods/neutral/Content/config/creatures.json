@@ -1,0 +1,74 @@
+{
+	"core:ammoCart": {
+		"special": true
+	},
+	"core:arrowTower": {
+		"special": true
+	},
+	"core:azureDragon": {
+		"special": true
+	},
+	"core:ballista": {
+		"special": true
+	},
+	"core:boar": {
+		"special": true
+	},
+	"core:catapult": {
+		"special": true
+	},
+	"core:crystalDragon": {
+		"special": true
+	},
+	"core:diamondGolem": {
+		"special": true
+	},
+	"core:enchanter": {
+		"special": true
+	},
+	"core:fairieDragon": {
+		"special": true
+	},
+	"core:firstAidTent": {
+		"special": true
+	},
+	"core:goldGolem": {
+		"special": true
+	},
+	"core:halfling": {
+		"special": true
+	},
+	"core:mummy": {
+		"special": true
+	},
+	"core:nomad": {
+		"special": true
+	},
+	"core:peasant": {
+		"special": true
+	},
+	"core:rogue": {
+		"special": true
+	},
+	"core:rustDragon": {
+		"special": true
+	},
+	"core:sharpshooter": {
+		"special": true
+	},
+	"core:troll": {
+		"special": true
+	},
+	"core:unused122": {
+		"special": true
+	},
+	"core:unused124": {
+		"special": true
+	},
+	"core:unused126": {
+		"special": true
+	},
+	"core:unused128": {
+		"special": true
+	}
+}
